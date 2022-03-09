@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Group Members
-permalink: /people/
+title: AXS
+permalink: /AXS/
 ---
 
-Include information about current and past group members here. 
+I was recently initiated to the Gamma Zeta chapter of the Alpha Chi Sigma Fraternity. It is a professional Chemistry fraternity and the connections I've made there have been invaluable. 
