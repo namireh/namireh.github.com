@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I was born in San Jose, Calfornia in 2002. I attend college at Cal Poly SLO; orgiginally admitted for Chemistry, I've recently swtched to General Engineering and am changing career goals. For fun, I like to hike and spend time with friends. 
 
 ### Contact me
 
-[armcdona@calpoly.edu](mailto:armcdona@calpoly.edu)
+[namireh@calpoly.edu](mailto:namireh@calpoly.edu)
