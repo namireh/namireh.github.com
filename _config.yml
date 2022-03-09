@@ -3,15 +3,15 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Nicholas Amireh
 
 # Short bio or description (displayed in the header)
-description: A Short Description
+description: General Engineering B.S Entrepreneurship minor
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 # To use the Cal Poly Learn by Doing logo put https://raw.githubusercontent.com/[username]/[website_name]/master/images/CP_LBD.jpg
 # But fill in your actual username and website name
-avatar: 
+avatar: https://raw.githubusercontent.com/[username]/[website_name]/master/images/CP_LBD.jpg
 
 #
 # Flags below are optional
@@ -20,12 +20,12 @@ avatar:
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email:nicholas.amireh@gmail.com
   facebook:
   flickr:
   github: 
-  instagram:
-  linkedin:
+  instagram:https://www.instagram.com/_the_nick__/
+  linkedin:https://www.linkedin.com/in/nicholas-amireh-1512b6184/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
